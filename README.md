@@ -1,4 +1,4 @@
-# Multi-Utility Toolkit-Module&Package
+# Multi-Utility Toolkit-Moduler&Package
 
 ## Author:
 👩‍💻 **Drashti Vasani**
@@ -129,7 +129,7 @@ Moduler&Packager/
 
 │
 
-└── Module_Package/
+└── Moduler_Package/
 
     ├── __init__.py
 
@@ -564,3 +564,5 @@ This project demonstrates the use of:
 * Python packages and custom modules
 * Dynamic module importing
 * dir() for exploring module attributes
+#   M o d u l e r _ P a c k a g e  
+ 

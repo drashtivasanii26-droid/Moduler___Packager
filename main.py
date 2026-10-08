@@ -7,8 +7,8 @@ import os
 
 
 
-from Module_Package.file_operator import file_operator
-from Module_Package.math_operator import math_operator
+from Moduler_Package.file_operator import file_operator
+from Moduler_Package.math_operator import math_operator
 
 
 #=================================
