@@ -123,7 +123,7 @@ Moduler&Packager/
 
 ├── modeler.txt
 
-├── output.png
+├── moduler&package.png
 
 ├── README.md
 
