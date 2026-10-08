@@ -565,4 +565,5 @@ This project demonstrates the use of:
 * Dynamic module importing
 * dir() for exploring module attributes
 #   M o d u l e r _ P a c k a g e  
+ #   M o d u l e r - P a c k a g e  
  
